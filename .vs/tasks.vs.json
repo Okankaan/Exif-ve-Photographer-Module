@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Exif ve Photographer Module",
+      "appliesTo": "Exif ve Photographer Module/",
+      "type": "launch"
+    }
+  ]
+}
